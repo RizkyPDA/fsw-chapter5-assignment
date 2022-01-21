@@ -42,7 +42,7 @@ app.post("/add", (req, res) => {
   res.redirect("/");
 });
 
-app.get("public/edit", (req, res) => {
+app.get("/edit", (req, res) => {
   const { id } = req.query;
   const data = fs.readFileSync("./data/data.json", "utf-8");
   const dataParsed = JSON.parse(data);

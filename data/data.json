@@ -1,19 +1,6 @@
 [
     {
-        "nama": "rizky",
-        "email": "ryperk@gmail.com",
-        "password": "lalahaha"
-    },
-<<<<<<< HEAD
-    {
-        "nama": "syaiful",
-        "email": "djamil@gmail.com",
-        "password": "cintasegitiga"
-=======
-   {
-        "nama": "alifiandyn",
-        "email": "alifiandyn@gmail.com",
-        "password": "12345678"
->>>>>>> 2d9fafba5e68da36dae6a3779cbb25d3b74f7cf1
+        "id": "8ef59644-17a9-444d-a025-ccce8bc2de2c",
+        "nama": "ariel "
     }
 ]
