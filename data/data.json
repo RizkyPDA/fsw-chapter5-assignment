@@ -4,9 +4,16 @@
         "email": "ryperk@gmail.com",
         "password": "lalahaha"
     },
+<<<<<<< HEAD
     {
         "nama": "syaiful",
         "email": "djamil@gmail.com",
         "password": "cintasegitiga"
+=======
+   {
+        "nama": "alifiandyn",
+        "email": "alifiandyn@gmail.com",
+        "password": "12345678"
+>>>>>>> 2d9fafba5e68da36dae6a3779cbb25d3b74f7cf1
     }
 ]
