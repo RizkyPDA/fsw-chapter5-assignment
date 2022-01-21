@@ -1,4 +1,4 @@
 [
-  { "id": 1, "nama": "Alifiandy Nugraha", "hobby": "Ngoding" },
-  { "id": 2, "nama": "Raihan", "hobby": "Belajar" }
+  { "id": 1, "nama": "Alifiandy Nugraha", "email": "Ngoding", "password": 12345678 },
+  { "id": 2, "nama": "Raihan", "email": "Belajar", "password": 12345678 }
 ]
