@@ -12,6 +12,7 @@
     <table class="table table-bordered">
       <thead>
         <tr>
+          <th>ID</th>
           <th>nama</th>
           <th>email</th>
           <th>password</th>
@@ -21,6 +22,7 @@
       <tbody>
         <% data.forEach(item => { %>
         <tr>
+          <td><%= item.id %> </td>
           <td><%= item.nama %> </td>
           <td><%= item.email %> </td>
           <td><%= item.password %> </td>

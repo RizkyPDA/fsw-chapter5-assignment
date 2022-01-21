@@ -1,6 +1,20 @@
 [
     {
-        "id": "8ef59644-17a9-444d-a025-ccce8bc2de2c",
-        "nama": "ariel "
+        "id": "0f9270a7-0279-4ff5-9c6a-83687e31d106",
+        "nama": "eko ",
+        "email": "patrio@gmail.com ",
+        "password": "$2b$10$W9Jw1hi5ZnLvwrq9K1JoiOmHs54SW1UcDKdStN8K.zj8nRjig.Bha "
+    },
+    {
+        "id": "5aa552c8-5eea-4994-beab-1be7c207d3c8",
+        "nama": "johnny",
+        "email": "yespapa@binar.co.id",
+        "password": "$2b$10$7WfqZ4x5XZMfsGfYZW.E9u7CVi3rCL5DOHOcwmEYI7GCfeiU.3FSe"
+    },
+    {
+        "id": "60e2a4a8-36b6-481f-9eee-8b0710c83274",
+        "nama": "ariel ",
+        "email": "ariel-frontman@gmail.com ",
+        "password": "$2b$10$OulPtwEygJRFyA04hFWsLO89ZkW5cVg.tolYXTgcyPLEuS7SWQvUS "
     }
 ]
